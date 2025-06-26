@@ -1,0 +1,8 @@
+# R
+*.Rhistory
+*.RData
+*.Rmd
+*.html
+
+# CSV
+*.csv
